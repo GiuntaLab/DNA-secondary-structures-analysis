@@ -1,1 +1,5 @@
+This folder contains all the scripts necessary for running the RNAFold v2.0 along with the code needed to build the input dataset.
 
+Requirements
+1. Python libraries - Pandas and Biopython
+2. RNAFold v2.0 tool from the ViennaRNA package.
