@@ -1,2 +1,2 @@
 # DNA secondary structure analysis
-Scripts for using RNAfold to send in input data and extract and save the outputs in a modular way
+We integrate the tool RNAFold v2.0 with python scripts to modularize the process of passing the DNA sequences and extracting their thermodynamic stability parameters.
