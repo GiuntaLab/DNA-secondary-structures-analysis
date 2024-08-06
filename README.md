@@ -1,6 +1,6 @@
-### Comparative analysis of predicted DNA secondary structures infers complex human centromere topology
+# Comparative analysis of predicted DNA secondary structures infers complex human centromere topology
 
-In this repository, we showcase the scripts and tools used in our analysis.
+In this repository, we showcase the scripts and tools used in our analysis. Below are the details of the folders and their contents:
 
 There are three folders in this github repository - 
 1. Free Energy Evaluation - This corresponds to the usage of the tool RNAfold to predict the secondary structures of DNA obtained from various regions of the centromere.
