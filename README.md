@@ -1,4 +1,4 @@
-# Comparative analysis of predicted DNA secondary structures infers complex human centromere topology
+### Comparative analysis of predicted DNA secondary structures infers complex human centromere topology
 
 In this repository, we showcase the scripts and tools used in our analysis.
 
